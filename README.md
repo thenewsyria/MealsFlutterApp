@@ -1,6 +1,6 @@
 # advanced_flutter_arabic
 
-A new Flutter project.
+I build Meals App in flutter framework by using Bloc state managmenet and MVC patter for clean articture 
 
 ## Getting Started
 
